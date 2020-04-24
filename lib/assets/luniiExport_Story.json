@@ -1,0 +1,24 @@
+{
+  "uuid": "",
+  "type": "story",
+  "name": "",
+  "position": null,
+  "image": null,
+  "audio": "",
+  "okTransition": {
+    "actionNode": "",
+    "optionIndex": 0
+  },
+  "homeTransition": {
+    "actionNode": "",
+    "optionIndex": 0
+  },
+  "controlSettings": {
+    "wheel": false,
+    "ok": false,
+    "home": true,
+    "pause": true,
+    "autoplay": true
+  },
+  "groupId": ""
+}

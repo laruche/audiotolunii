@@ -1,0 +1,28 @@
+{
+  "name": "audioToLunii",
+  "version": "1.0.0",
+  "description": "Convert RSS podcast & MP3 audio folder to Lunii studio file",
+  "main": "./lib/parser.js",
+  "bin": {
+    "audioToLunii": "./bin/index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.14",
+    "cli-progress": "^3.8.0",
+    "command-exists": "^1.2.9",
+    "exec-sh": "^0.3.4",
+    "execa": "^4.0.0",
+    "fs-extra": "^9.0.0",
+    "g-i-s": "^2.1.5",
+    "get-arguments": "^1.0.2",
+    "google-tts-api": "0.0.4",
+    "list-files-in-dir": "^0.1.5",
+    "lodash": "^4.17.15",
+    "node-wget-promise": "^0.1.6",
+    "page-icon": "^0.3.0",
+    "rss-parser": "^3.7.6",
+    "tmp": "^0.1.0",
+    "uid": "^1.0.0",
+    "uuid": "^7.0.3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "uuid": "",
+  "type": "menu.optionstage",
+  "groupId": "",
+  "name": "Baila",
+  "image": "",
+  "audio": "",
+  "okTransition": {
+    "actionNode": "",
+    "optionIndex": 0
+  },
+  "homeTransition": null,
+  "controlSettings": {
+    "wheel": true,
+    "ok": true,
+    "home": true,
+    "pause": false,
+    "autoplay": false
+  }
+}

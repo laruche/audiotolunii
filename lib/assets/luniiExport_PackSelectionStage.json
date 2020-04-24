@@ -1,0 +1,24 @@
+{
+  "uuid": "",
+  "type": "cover",
+  "name": "Pack selection stage",
+  "position": {
+    "x": 50,
+    "y": 297.8568233990864
+  },
+  "image": "",
+  "audio": "",
+  "okTransition": {
+    "actionNode": "",
+    "optionIndex": 0
+  },
+  "homeTransition": null,
+  "controlSettings": {
+    "wheel": true,
+    "ok": true,
+    "home": false,
+    "pause": false,
+    "autoplay": false
+  },
+  "squareOne": true   
+}
