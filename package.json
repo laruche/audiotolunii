@@ -17,7 +17,7 @@
     "get-arguments": "^1.0.2",
     "google-tts-api": "^2.0.1",
     "list-files-in-dir": "^0.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "node-wget-promise": "^0.1.6",
     "page-icon": "^0.3.0",
     "rss-parser": "^3.7.6",
